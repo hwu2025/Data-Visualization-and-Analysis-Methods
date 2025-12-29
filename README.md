@@ -9,7 +9,8 @@
 1. The topic is up to your group's major
 2. Each group should be up most to 4 people
 3. Visualize and anlysis a meaningfule datasets for research
-4. Provide a user-friendly website (optional)
+4. Write detialed README file and technicla report (mandatory)
+5. Provide a user-friendly website (optional)
 
 
 ## 📖 Students Group Projects
