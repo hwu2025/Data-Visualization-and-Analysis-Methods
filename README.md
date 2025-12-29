@@ -50,6 +50,14 @@ G18:
 ## ✒️ Citation
 
 ```bibtex
-
+@misc{PKU-EMBL_DataVis,
+  author       = {{PKU-EMBL}},
+  title        = {Data Visualization and Analysis Methods},
+  year         = {2024},
+  publisher    = {GitHub},
+  journal      = {GitHub repository},
+  howpublished = {\url{https://github.com/PKU-EMBL/Data-Visualization-and-Analysis-Methods}},
+  note         = {Accessed: 2024-05-20}
+}
 ```
 
